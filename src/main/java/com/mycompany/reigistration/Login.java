@@ -9,7 +9,7 @@ public class Login {
      // Global variables to store "registered" data for login testing
     private String registeredUsername;
     private String registeredPassword;
-    private final String firstName = ""; // Default for testing output
+    private final String firstName = "mashudu"; // Default for testing output
     private final String lastName = "marunga";
 
     // Method to check if username contains underscore and is <= 5 chars
